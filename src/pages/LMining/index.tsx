@@ -69,11 +69,7 @@ export default function Earn() {
                   Deposit your Liquidity Provider tokens to receive AIS, the AISwap protocol governance token.
                 </TYPE.white>
               </RowBetween>{' '}
-              <ExternalLink
-                style={{ color: 'white', textDecoration: 'underline' }}
-                href=""
-                target="_blank"
-              >
+              <ExternalLink style={{ color: 'white', textDecoration: 'underline' }} href="" target="_blank">
                 <TYPE.white fontSize={14}>Read more about AISwap Mining</TYPE.white>
               </ExternalLink>
             </AutoColumn>
