@@ -137,6 +137,7 @@ class MiniRpcProvider implements AsyncSendable {
   }
 }
 
+// here is the network connector
 export class NetworkConnector extends AbstractConnector {
   private readonly providers: { [chainId: number]: MiniRpcProvider }
   private currentChainId: number

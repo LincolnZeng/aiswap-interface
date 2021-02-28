@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/interface",
-  "description": "Uniswap Interface",
+  "name": "@aiswap/app",
+  "description": "AISwap App",
   "homepage": ".",
   "private": true,
   "devDependencies": {

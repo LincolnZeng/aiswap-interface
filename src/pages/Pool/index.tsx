@@ -1,3 +1,4 @@
+// @TODO add the liquidity providing policy: as href="https://uniswap.org/docs/v2/core-concepts/pools/"
 import React, { useContext, useMemo } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import { Pair, JSBI } from '@uniswap/sdk'

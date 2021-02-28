@@ -25,6 +25,7 @@ const ETHERSCAN_PREFIXES: { [chainId in ChainId]: string } = {
   42: 'kovan.'
 }
 
+// @TODO change this to heco scan info
 export function getEtherscanLink(
   chainId: ChainId,
   data: string,
